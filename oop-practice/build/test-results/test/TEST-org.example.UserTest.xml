@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.UserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-09T21:06:35" hostname="gim-iseuls-MacBook-Pro.local" time="0.083">
+  <properties/>
+  <testcase name="패스워드가 요구사항에 부합하지 않아 초기화가 되지 않는다." classname="org.example.UserTest" time="0.079"/>
+  <testcase name="패스워드가 요구사항에 부합하지 않아 초기화가 되지 않는다." classname="org.example.UserTest" time="0.003"/>
+  <system-out><![CDATA[*********Password*********
+abcdefgh
+**************************
+*********Password*********
+null
+**************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
